@@ -23,7 +23,7 @@ This project displays a group of assets and allows them to be sorted by category
 - Verify that the hard-coded `localhost` URL in the asset-management-service.ts file matches the corresponding API's localhost URL before running the application.
 
 3. **Comments / Explainations**
- 1. The next steps I would take to continue this project would be
+ - The next steps I would take to continue this project would be
     1. Updating the table to include indentations when displaying the asset information
     2. Adding unit tests to ensure the components are being loaded correctly
- 2. For this exercise I only showed the relevant asset information, however the asset class can be expanded to include relevant information if needed.
+ - For this exercise I only showed the relevant asset information, however the asset class can be expanded to include relevant information if needed.
